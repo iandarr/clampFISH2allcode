@@ -1,0 +1,11 @@
+
+#conda activate cellpose
+
+#python -m cellpose --dir /Volumes/IAND_04/data/E159_scan_amp/s17_8well_60X_stacks/c1_R1_20210612_173333_896__Well2/mergedImgs --pretrained_model cyto --chan 2 --chan2 3 --save_png --fast_mode --diameter 150
+python -m cellpose --dir /Volumes/IAND_04/data/E159_scan_amp/s17_8well_60X_stacks/c1_R2_20210612_173333_896__Well3/mergedImgs --pretrained_model cyto --chan 2 --chan2 3 --save_png --fast_mode --diameter 150
+#python -m cellpose --dir /Volumes/IAND_04/data/E159_scan_amp/s17_8well_60X_stacks/c1_R2_NoCu_20210612_173333_896__Well7/mergedImgs --pretrained_model cyto --chan 2 --chan2 3 --save_png --fast_mode --diameter 150
+python -m cellpose --dir /Volumes/IAND_04/data/E159_scan_amp/s17_8well_60X_stacks/c2_R4_20210612_210320_166__Well2/mergedImgs --pretrained_model cyto --chan 2 --chan2 3 --save_png --fast_mode --diameter 150
+#python -m cellpose --dir /Volumes/IAND_04/data/E159_scan_amp/s17_8well_60X_stacks/c2_R6_20210612_210320_166__Well3/mergedImgs --pretrained_model cyto --chan 2 --chan2 3 --save_png --fast_mode --diameter 150
+#python -m cellpose --dir /Volumes/IAND_04/data/E159_scan_amp/s17_8well_60X_stacks/c3_R8_20210612_192114_033__Well2/mergedImgs --pretrained_model cyto --chan 2 --chan2 3 --save_png --fast_mode --diameter 150
+#python -m cellpose --dir /Volumes/IAND_04/data/E159_scan_amp/s17_8well_60X_stacks/c3_R8_NoCu_20210612_192114_033__Well6/mergedImgs --pretrained_model cyto --chan 2 --chan2 3 --save_png --fast_mode --diameter 150
+#python -m cellpose --dir /Volumes/IAND_04/data/E159_scan_amp/s17_8well_60X_stacks/c3_R10_20210612_192114_033__Well3/mergedImgs --pretrained_model cyto --chan 2 --chan2 3 --save_png --fast_mode --diameter 150

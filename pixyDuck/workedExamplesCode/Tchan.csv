@@ -1,0 +1,13 @@
+round,channel,channelLabels,channelPrefixes
+1,DAPI,,R1_DAPI
+1,Brightfield,,R1_Brightfield
+1,YFP,UBC,R1_YFP
+1,CY3,ITGA3,R1_CY3
+1,A594,MMP1,R1_A594
+1,CY5,AXL,R1_CY5
+2,DAPI,,R1s_DAPI
+2,Brightfield,,R1s_Brightfield
+2,YFP,,R1s_YFP
+2,CY3,,R1s_CY3
+2,A594,,R1s_A594
+2,CY5,,R1s_CY5
